@@ -62,8 +62,9 @@ p {
     font-size: 48px;
 }
 
-A {
-color: #160773
+.12345 {
+color: #160773;
+    text-decoration: none
 }
 
 
